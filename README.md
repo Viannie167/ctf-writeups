@@ -1,7 +1,13 @@
 # ctf-writeups
 My cybersecurity CTF and lab writeups :3
+
+#
+
+
 🟢 - Easy :)
+
 🟡 - Medium ! 
+
 🔴 - Hard !!
 
 ## 🚩 My Conquests >:3 
